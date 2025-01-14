@@ -1,2 +1,0 @@
-IDLE="https://raw.githubusercontent.com/ELPEDR/SonicDreamBanana/refs/heads/main/mods/bananaaa.png"
-RUN="https://raw.githubusercontent.com/ELPEDR/SonicDreamBanana/refs/heads/main/mods/bananaaa2.png"
