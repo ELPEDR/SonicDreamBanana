@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1736991297,
+	"version": 1737146599,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -104,6 +104,11 @@
 		"images/sprite50-sheet0.png",
 		"images/sprite50-sheet1.png",
 		"images/sprite48-sheet0.png",
+		"images/sprite51-sheet0.png",
+		"images/sprite52-sheet0.png",
+		"images/sprite53-sheet0.png",
+		"images/sprite54-sheet0.png",
+		"images/sprite54-sheet1.png",
 		"media/itens_monitoraquashield.ogg",
 		"media/itens_monitorflameshield.ogg",
 		"media/itens_monitormagneticshield.ogg",
