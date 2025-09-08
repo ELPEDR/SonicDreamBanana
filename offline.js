@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1755039262,
+	"version": 1757366067,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -73,8 +73,6 @@
 		"images/ecbutton-sheet0.png",
 		"images/sprite33-sheet0.png",
 		"images/sprite34-sheet0.png",
-		"images/sprite34-sheet1.png",
-		"images/sprite34-sheet2.png",
 		"images/sprite35-sheet0.png",
 		"images/sprite35-sheet1.png",
 		"images/tiledbackground2.png",
@@ -116,6 +114,8 @@
 		"images/q2-sheet0.png",
 		"images/q2-sheet1.png",
 		"images/sprite32-sheet0.png",
+		"images/sprite59-sheet0.png",
+		"images/sprite60-sheet0.png",
 		"media/itens_monitoraquashield.ogg",
 		"media/itens_monitorflameshield.ogg",
 		"media/itens_monitormagneticshield.ogg",
@@ -156,6 +156,8 @@
 		"media/music - final stage (goalpost).ogg",
 		"media/bosshbh.ogg",
 		"media/videoplayback-_4_.ogg",
+		"media/sega.ogg",
+		"media/titlescreen.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
